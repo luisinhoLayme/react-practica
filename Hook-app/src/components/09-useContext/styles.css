@@ -1,0 +1,24 @@
+
+.menu {
+  background-color: #141212;
+  padding: 1rem;
+}
+
+.menu-logo {
+  text-decoration: none;
+  font-size: 1rem;
+  color: #ccc;
+  font-weight: bold;
+}
+
+.menu-item {
+  color: #aaa;
+  margin-left: 1.5rem;
+  padding: .5rem;
+  text-decoration: none;
+  font-family: consolas, sans-serif;
+  transition: color .4s ease;
+}
+.menu-item:hover {
+  color: #fff;
+}
